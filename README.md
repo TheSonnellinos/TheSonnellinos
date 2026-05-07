@@ -2,4 +2,6 @@
 
 <p align="center">$$\color{gold}" 𝐌𝐚𝐲𝐛𝐞 \space 𝐢𝐭'𝐬 \space 𝐭𝐢𝐦𝐞 \space 𝐭𝐨 \space 𝐪𝐮𝐢𝐭, \space 𝐞𝐡? "$$</code>
 
-<p align="center">$$\color{gold}𝐈 \space 𝐈𝐈 \space 𝐈𝐈𝐈$$
+<p align="center">$$\color{darkred}░\color{yellow}▒▒▓▓\color{gold}████\color{yellow}▓▓\color{yellow}▒▒\color{darkred}░$$
+
+<p align="center">$$\color{gold}" 𝐌𝐚𝐲𝐛𝐞 \space 𝐢𝐭'𝐬 \space 𝐭𝐢𝐦𝐞 \space 𝐭𝐨 \space 𝐪𝐮𝐢𝐭, \space 𝐞𝐡? "$$</code>
