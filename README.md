@@ -5,7 +5,29 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&duration=1200&pause=1700&color=C4B947&center=true&vCenter=true&lines=&width=435&height=80&lines=%22+What's+wrong%3F+%22;%22+Lady+Luck+not+by+your+side+anymore%3F+%22" alt="Typing SVG" /></a>
 <p align="center">$\color{#AE4A1C}░\color{#B08232}▒▓\color{#C4B947}██\color{#B08232}▓▒\color{#AE4A1C}░$
 
-<p align="center">$\color{#C4B947}wip$
+<p align="center"><img width="700" alt="top banner" src="https://github.com/user-attachments/assets/94a9cdf0-6764-41e7-8830-1c678418f596" />
+
+<p align="center">$\color{#C4B947}Zack \space collectively, \space or \space any \space of \space our \space kins/alters \space names$
+
+<p align="center">$\color{#C4B947}DID/OSDD-1b \space + \space AUDHD$
+
+<p align="center">$\color{#C4B947}Bodily \space 21, \space 29/11/04$
+
+<p align="center">$\color{#C4B947}Extreme \space identity \space issues, \space dissociation, \space and \space memory \space loss$
+
+<p align="center">$\color{#C4B947}Apologies \space in \space advance \space if \space we \space can't \space remember \space you, \space you \space probably \space met \space another \space alter$
+
+<p align="center">$\color{#C4B947}High \space stress \space tolerance \space when \space it \space comes \space to \space splitting$
+
+<p align="center">$\color{#C4B947}We \space don't \space fully \space switch, \space they \space usually \space stay \space in \space co-front$
+
+<p align="center">$\color{#C4B947}Some \space alters \space will \space be \space more \space dry \space or \space more \space energetic \space than \space others$
+
+<p align="center">$\color{#C4B947}We \space don't \space really \space specify \space who's \space fronting, \space but \space we \space use \space skins \space of \space characters \space we \space feel \space the \space most \space comfortable \space being \space percieved \space as$
+
+<p align="center">$\color{#C4B947}Mainly \space because \space I \space myself \space can't \space tell \space who's \space fronting \space half \space of \space the \space time$
+
+<p align="center"><img width="700" alt="bottom banner" src="https://github.com/user-attachments/assets/8765467f-7f7d-4d58-b60d-9a0c716572ad" />
 
 <p align="center">$\color{#AE4A1C}░\color{#B08232}▒▓\color{#C4B947}██\color{#B08232}▓▒\color{#AE4A1C}░$
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=UnifrakturMaguntia&duration=1200&pause=1700&color=C4B947&center=true&vCenter=true&lines=&width=435&height=80&lines=%22+Simple+'n+clean%2C+boys.+%22;%22+We're+outta+here.+%22" alt="Typing SVG" /></a>
