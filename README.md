@@ -27,6 +27,8 @@
 
 <p align="center">$\color{#C4B947}Mainly \space because \space I \space myself \space can't \space tell \space who's \space fronting \space half \space of \space the \space time$
 
+<p align="center">$\color{#C4B947}For \space more \space information \space about \space ourselves \space check \space our \space Patreon$
+
 <p align="center"><img width="700" alt="bottom banner" src="https://github.com/user-attachments/assets/8765467f-7f7d-4d58-b60d-9a0c716572ad" />
 
 <p align="center">$\color{#AE4A1C}░\color{#B08232}▒▓\color{#C4B947}██\color{#B08232}▓▒\color{#AE4A1C}░$
