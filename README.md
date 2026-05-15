@@ -17,7 +17,9 @@
 
 <p align="center">$\color{#C4B947}We're \space italian, \space and \space we \space speak \space both \space Italian \space and \space English \space fluently$
 
-<p align="center">$\color{#C4B947}We \space do \space enjoy \space being \space treated \space like \space certain \space characters. \space Yes \space we \space are \space aware \space we're \space not \space them, \space it \space just \space brings \space us \space happiness \space whenever \space it \space happens$
+<p align="center">$\color{#C4B947}We \space do \space enjoy \space being \space treated \space like \space certain \space characters$
+
+<p align="center">$\color{#C4B947}Yes \space we \space are \space fully \space aware \space that \space we're \space not \space them, \space it \space just \space brings \space us \space happiness \space whenever \space it \space happens$
 
 <p align="center">$\color{#C4B947}Don't \space be \space shy \space \space to \space interact \space with \space us, \space most \space of \space us \space are \space really \space social$
 
