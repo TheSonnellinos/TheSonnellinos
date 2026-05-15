@@ -46,4 +46,4 @@
 <p align="center">$\color{#AE4A1C}░\color{#B08232}▒▓\color{#C4B947}██\color{#B08232}▓▒\color{#AE4A1C}░$
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&duration=1200&pause=1700&color=C4B947&center=true&vCenter=true&lines=&width=435&height=80&lines=%22+Simple+'n+clean%2C+boys.+%22;%22+We're+outta+here.+%22" alt="Typing SVG" /></a>
 
-<p align="center"><a href="https://hits.sh/github.com/TheSonnellinos/"><img alt="Hits" src="https://hits.sh/github.com/TheSonnellinos.svg?label=Debt%20collected&color=C4B947&labelColor=000000"/></a>
+<p align="center"><a href="https://hits.sh/github.com/TheSonnellinos/"><img alt="Hits" src="https://hits.sh/github.com/TheSonnellinos.svg?style=for-the-badge&label=Debt%20collected&color=C4B947&labelColor=000000"/></a>
