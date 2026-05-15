@@ -11,8 +11,6 @@
 
 <p align="center">$\color{#C4B947}DID/OSDD-1b \space + \space AUDHD$
 
-<p align="center">$\color{#C4B947}Bodily \space 21, \space 29/11/04$
-
 <p align="center">$\color{#C4B947}Don't \space be \space inappropriate \space towards \space me \space if \space you're \space under \space 18$
 
 <p align="center">$\color{#C4B947}Femtanyl, \space Lapfox \space Trax, \space Car \space Seat \space Headrest, \space Gorillaz, \space TV \space Girl, \space Pogo \space enjoyer$
