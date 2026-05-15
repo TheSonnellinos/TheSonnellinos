@@ -35,9 +35,7 @@
 
 <p align="center">$\color{#C4B947}Some \space alters \space will \space be \space more \space dry \space or \space more \space energetic \space than \space others$
 
-<p align="center">$\color{#C4B947}We \space don't \space really \space specify \space who's \space fronting, \space but \space we \space use \space skins \space of \space characters \space we \space feel \space the \space most \space comfortable \space being \space percieved \space as$
-
-<p align="center">$\color{#C4B947}Mainly \space because \space I \space myself \space can't \space tell \space who's \space fronting \space half \space of \space the \space time$
+<p align="center">$\color{#C4B947}We \space don't \space really \space specify \space who's \space fronting, \space mainly \space because \space I \space can't \space tell \space who's \space fronting \space half \space of \space the \space time$
 
 <p align="center">$\color{#C4B947}꒷ \space ꒦꒷ \space ꒷꒦ \space ꒷$
 
