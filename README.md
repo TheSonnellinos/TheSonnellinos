@@ -11,7 +11,7 @@
 
 <p align="center">$\color{#C4B947}DID/OSDD-1b \space + \space AUDHD$
 
-<p align="center">$\color{#C4B947}Don't \space be \space inappropriate \space towards \space me \space if \space you're \space under \space 18$
+<p align="center">$\color{#C4B947}Don't \space be \space inappropriate \space towards \space us \space if \space you're \space under \space 18$
 
 <p align="center">$\color{#C4B947}Femtanyl, \space Lapfox \space Trax, \space Car \space Seat \space Headrest, \space Gorillaz, \space TV \space Girl, \space Pogo \space enjoyer$
 
@@ -35,7 +35,7 @@
 
 <p align="center">$\color{#C4B947}Some \space alters \space will \space be \space more \space dry \space or \space more \space energetic \space than \space others$
 
-<p align="center">$\color{#C4B947}We \space don't \space really \space specify \space who's \space fronting, \space mainly \space because \space I \space can't \space tell \space who's \space fronting \space half \space of \space the \space time$
+<p align="center">$\color{#C4B947}We \space don't \space really \space specify \space who's \space fronting, \space mainly \space because \space I \space can't \space tell \space half \space of \space the \space time$
 
 <p align="center">$\color{#C4B947}꒷ \space ꒦꒷ \space ꒷꒦ \space ꒷$
 
