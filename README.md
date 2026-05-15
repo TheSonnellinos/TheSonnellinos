@@ -15,9 +15,9 @@
 
 <p align="center">$\color{#C4B947}Femtanyl, \space Lapfox \space Trax, \space Car \space Seat \space Headrest, \space Gorillaz, \space TV \space Girl, \space Pogo \space enjoyer$
 
-<p align="center">$\color{#C4B947}I'm \space italian, \space and \space I \space speak \space both \space Italian \space and \space English \space fluently$
+<p align="center">$\color{#C4B947}We're \space italian, \space and \space we \space speak \space both \space Italian \space and \space English \space fluently$
 
-<p align="center">$\color{#C4B947}$
+<p align="center">$\color{#C4B947}We \space do \space enjoy \space being \space treated \space like \space certain \space characters. \space Yes \space we \space are \space aware \space we're \space not \space them, \space it \space just \space brings \space us \space happiness \space whenever \space it \space happens$
 
 <p align="center">$\color{#C4B947}Don't \space be \space shy \space \space to \space interact \space with \space us, \space most \space of \space us \space are \space really \space social$
 
