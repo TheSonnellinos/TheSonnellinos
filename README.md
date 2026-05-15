@@ -13,6 +13,16 @@
 
 <p align="center">$\color{#C4B947}Bodily \space 21, \space 29/11/04$
 
+<p align="center">$\color{#C4B947}Don't \space be \space inappropriate \space towards \space me \space if \space you're \space under \space 18$
+
+<p align="center">$\color{#C4B947}Femtanyl, \space Lapfox \space Trax, \space Car \space Seat \space Headrest, \space Gorillaz, \space TV \space Girl, \space Pogo \space enjoyer$
+
+<p align="center">$\color{#C4B947}Don't \space be \space shy \space \space to \space interact \space with \space us, \space most \space of \space us \space are \space really \space social$
+
+<p align="center">$\color{#C4B947}꒷ \space ꒦꒷ \space ꒷꒦ \space ꒷$
+
+<p align="center">$\color{#C4B947}Some \space system \space info \space for \space those \space who \space are \space interested:$
+
 <p align="center">$\color{#C4B947}Extreme \space identity \space issues, \space dissociation, \space and \space memory \space loss$
 
 <p align="center">$\color{#C4B947}Apologies \space in \space advance \space if \space we \space can't \space remember \space you, \space you \space probably \space met \space another \space alter$
@@ -26,6 +36,8 @@
 <p align="center">$\color{#C4B947}We \space don't \space really \space specify \space who's \space fronting, \space but \space we \space use \space skins \space of \space characters \space we \space feel \space the \space most \space comfortable \space being \space percieved \space as$
 
 <p align="center">$\color{#C4B947}Mainly \space because \space I \space myself \space can't \space tell \space who's \space fronting \space half \space of \space the \space time$
+
+<p align="center">$\color{#C4B947}꒷ \space ꒦꒷ \space ꒷꒦ \space ꒷$
 
 <p align="center">$\color{#C4B947}For \space more \space information \space about \space ourselves \space check \space our \space Patreon$
 
