@@ -17,7 +17,7 @@
 
 <p align="center">$\color{#C4B947}We're \space italian, \space and \space we \space speak \space both \space Italian \space and \space English \space fluently$
 
-<p align="center">$\color{#C4B947}We \space do \space enjoy \space being \space treated \space like \space certain \space characters$
+<p align="center">$\color{#C4B947}We \space do \space enjoy \space being \space treated \space like \space the \space characters \space we \space portray \space ourselves \space as$
 
 <p align="center">$\color{#C4B947}Don't \space be \space shy \space \space to \space interact \space with \space us, \space most \space of \space us \space are \space really \space social$
 
