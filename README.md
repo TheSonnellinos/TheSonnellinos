@@ -33,7 +33,7 @@
 
 <p align="center">$\color{#C4B947}High \space stress \space tolerance \space when \space it \space comes \space to \space splitting$
 
-<p align="center">$\color{#C4B947}We \space don't \space fully \space switch, \space they \space usually \space stay \space in \space co-front$
+<p align="center">$\color{#C4B947}We \space don't \space fully \space switch, \space they \space usually \space stay \space co-conscious$
 
 <p align="center">$\color{#C4B947}Some \space alters \space will \space be \space more \space dry \space or \space more \space energetic \space than \space others$
 
