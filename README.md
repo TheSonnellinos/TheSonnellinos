@@ -33,6 +33,8 @@
 
 <p align="center">$\color{#C4B947}Due \space to \space thick \space dissociative \space barriers \space we \space struggle \space to \space communicate \space with \space one \space another$
 
+<p align="center">$\color{#C4B947}So \space we \space mostly \space rely \space on \space feelings, \space or \space what \space feels \space right \space or \space wrong$
+
 <p align="center">$\color{#C4B947}High \space stress \space tolerance \space when \space it \space comes \space to \space splitting$
 
 <p align="center">$\color{#C4B947}We \space don't \space fully \space switch, \space they \space usually \space stay \space co-conscious$
