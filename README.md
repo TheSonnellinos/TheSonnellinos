@@ -31,7 +31,7 @@
 
 <p align="center">$\color{#C4B947}Apologies \space in \space advance \space if \space we \space can't \space remember \space you, \space you \space probably \space met \space another \space alter$
 
-<p align="center">$\color{#C4B947}Due \space to \space thick \space dissociative \space barriers \space we \space struggle \space to \space communicate \space with \space one \space another$
+<p align="center">$\color{#C4B947}Due \space to \space thick \space dissociative \space barriers \space we \space struggle \space to \space communicate \space with \space one \space another \space through \space thoughts$
 
 <p align="center">$\color{#C4B947}So \space we \space mostly \space rely \space on \space feelings, \space or \space what \space feels \space right \space or \space wrong$
 
