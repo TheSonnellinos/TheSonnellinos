@@ -45,6 +45,18 @@
 
 <p align="center">$\color{#C4B947}꒷ \space ꒦꒷ \space ꒷꒦ \space ꒷$
 
+<p align="center">$\color{#C4B947}A \space small \space DNI \space list \space just \space to \space make \space some \space things \space clear:$
+
+<p align="center">$\color{#C4B947}Endogenic \space systems \space or \space systems \space that \space use \space pluralpedia \space terms, \space that \space site \space is \space a \space literal \space cesspool \space full \space of \space misinformation$
+
+<p align="center">$\color{#C4B947}T.R.A.S.H. (transphobic, racist, ableist, sexist, homophobic)$
+
+<p align="center">$\color{#C4B947}People \space who \space harrass \space or \space make \space fun \space of \space others \space for \space no \space reason \space whatsoever$
+
+<p align="center">$\color{#C4B947}People \space under \space 13, \space don't \space be \space inappropriate \space with \space me \space either \space unless \space you're \space above \space 18$
+
+<p align="center">$\color{#C4B947}꒷ \space ꒦꒷ \space ꒷꒦ \space ꒷$
+
 <p align="center">$\color{#C4B947}For \space more \space information \space about \space ourselves \space check \space our \space Patreon$
 
 <p align="center"><img width="700" alt="bottom banner" src="https://github.com/user-attachments/assets/8765467f-7f7d-4d58-b60d-9a0c716572ad" />
