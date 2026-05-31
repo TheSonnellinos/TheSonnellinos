@@ -51,7 +51,7 @@
 
 <p align="center">$\color{#C4B947}People \space who \space harrass \space or \space make \space fun \space of \space others \space for \space no \space reason \space whatsoever$
 
-<p align="center">$\color{#C4B947}People \space under \space 13, \space don't \space be \space inappropriate \space with \space me \space either \space unless \space you're \space above \space 18$
+<p align="center">$\color{#C4B947}People \space under \space 13, \space don't \space be \space inappropriate \space with \space us \space either \space unless \space you're \space above \space 18$
 
 <p align="center">$\color{#C4B947}꒷ \space ꒦꒷ \space ꒷꒦ \space ꒷$
 
