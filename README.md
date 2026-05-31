@@ -11,8 +11,6 @@
 
 <p align="center">$\color{#C4B947}DID/OSDD-1b \space + \space AUDHD$
 
-<p align="center">$\color{#C4B947}Don't \space be \space inappropriate \space towards \space us \space if \space you're \space under \space 18$
-
 <p align="center">$\color{#C4B947}Please \space don't \space take \space inspiration \space from \space our \space skins \space without \space asking, \space especially \space alter/fictive \space skins$
 
 <p align="center">$\color{#C4B947}Femtanyl, \space Lapfox \space Trax, \space Machine \space Girl, Car \space Seat \space Headrest, \space Gorillaz, \space TV \space Girl, \space Pogo \space enjoyer$
