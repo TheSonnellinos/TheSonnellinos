@@ -25,7 +25,7 @@
 
 <p align="center">$\color{#C4B947}Some \space system \space info \space for \space those \space who \space are \space interested:$
 
-<p align="center">$\color{#C4B947}We \space experience \space extreme \space identity \space issues, \space dissociation, \space and \space memory \space loss$
+<p align="center">$\color{#C4B947}We \space experience \space severe \space identity \space issues, \space dissociation, \space and \space memory \space loss$
 
 <p align="center">$\color{#C4B947}Apologies \space in \space advance \space if \space we \space can't \space remember \space you, \space you \space probably \space met \space another \space alter$
 
