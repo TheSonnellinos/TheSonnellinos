@@ -13,6 +13,8 @@
 
 <p align="center">$\color{#C4B947}Please \space don't \space take \space inspiration \space from \space our \space skins \space without \space asking, \space especially \space alter/fictive \space skins$
 
+<p align="center">$\color{#C4B947}My \space skins \space are \space also \space NOT \space free \space to \space use, \space if \space you \space see \space them \space on \space Pinterest \space I \space did \space not \space give \space any \space permission \space for \space anyone \space to \space post \space them \space on \space there$
+
 <p align="center">$\color{#C4B947}Femtanyl, \space Lapfox \space Trax, \space Machine \space Girl, Car \space Seat \space Headrest, \space Gorillaz, \space TV \space Girl, \space Pogo \space enjoyer$
 
 <p align="center">$\color{#C4B947}We're \space italian, \space and \space we \space speak \space both \space Italian \space and \space English \space fluently$
