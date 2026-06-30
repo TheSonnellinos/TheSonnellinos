@@ -11,7 +11,7 @@
 
 <p align="center">$\color{#C4B947}DID/OSDD-1b \space + \space AUDHD$
 
-<p align="center">$\color{#C4B947}Please \space don't \space take \space inspiration \space from \space our \space skins \space without \space asking, \space especially \space alter/fictive \space skins$
+<p align="center">$\color{#C4B947}Please \space don't \space take \space inspiration \space without \space asking \space or \space copy \space our \space skins, \space especially \space alter/fictive \space skins$
 
 <p align="center">$\color{#C4B947}Our \space skins \space are \space also \space NOT \space free \space to \space use, \space if \space you \space see \space them \space on \space Pinterest \space we \space did \space not \space give \space any \space permission \space for \space anyone \space to \space post \space them \space on \space there$
 
