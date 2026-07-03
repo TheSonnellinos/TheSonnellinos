@@ -23,7 +23,7 @@
 
 <p align="center">$\color{#C4B947}Don't \space be \space shy \space \space to \space interact \space with \space us, \space most \space of \space us \space are \space really \space social$
 
-<p align="center">$\color{#C4B947}꒷ \space ꒦꒷ \space ꒷꒦ \space ꒷$
+<p align="center">$\color{#AE4A1C}꒷ \space \color{#B08232}꒦\color{#C4B947}꒷ \space ꒷\color{#B08232}꒦ \space \color{#AE4A1C}꒷$
 
 <p align="center">$\color{#C4B947}Some \space system \space info \space for \space those \space who \space are \space interested:$
 
@@ -43,7 +43,7 @@
 
 <p align="center">$\color{#C4B947}We \space don't \space really \space specify \space who's \space fronting, \space mainly \space because \space I \space can't \space tell \space half \space of \space the \space time$
 
-<p align="center">$\color{#C4B947}꒷ \space ꒦꒷ \space ꒷꒦ \space ꒷$
+<p align="center">$\color{#AE4A1C}꒷ \space \color{#B08232}꒦\color{#C4B947}꒷ \space ꒷\color{#B08232}꒦ \space \color{#AE4A1C}꒷$
 
 <p align="center">$\color{#C4B947}A \space small \space DNI \space list \space just \space to \space make \space some \space things \space clear:$
 
@@ -55,7 +55,7 @@
 
 <p align="center">$\color{#C4B947}People \space under \space 13, \space don't \space be \space inappropriate \space with \space us \space either \space unless \space you're \space above \space 18$
 
-<p align="center">$\color{#C4B947}꒷ \space ꒦꒷ \space ꒷꒦ \space ꒷$
+<p align="center">$\color{#AE4A1C}꒷ \space \color{#B08232}꒦\color{#C4B947}꒷ \space ꒷\color{#B08232}꒦ \space \color{#AE4A1C}꒷$
 
 <p align="center">$\color{#C4B947}For \space more \space information \space about \space ourselves \space check \space our \space Patreon$
 
