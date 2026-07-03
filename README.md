@@ -55,10 +55,6 @@
 
 <p align="center">$\color{#C4B947}People \space under \space 13, \space don't \space be \space inappropriate \space with \space us \space either \space unless \space you're \space above \space 18$
 
-<p align="center">$\color{#AE4A1C}꒷ \space \color{#B08232}꒦\color{#C4B947}꒷ \space ꒷\color{#B08232}꒦ \space \color{#AE4A1C}꒷$
-
-<p align="center">$\color{#C4B947}For \space more \space information \space about \space ourselves \space check \space our \space Patreon$
-
 <p align="center"><img width="700" alt="bottom banner" src="https://github.com/user-attachments/assets/8765467f-7f7d-4d58-b60d-9a0c716572ad" />
 
 <p align="center">$\color{#AE4A1C}░\color{#B08232}▒▓\color{#C4B947}██\color{#B08232}▓▒\color{#AE4A1C}░$
