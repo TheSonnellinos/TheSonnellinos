@@ -9,7 +9,7 @@
 
 <p align="center">$\color{#C4B947}Zack \space collectively, \space or \space any \space of \space our \space kins/alters \space names$
 
-<p align="center">$\color{#C4B947}DID/OSDD-1b \space + \space AUDHD$
+<p align="center">$\color{#C4B947}DID/P-DID \space + \space AUDHD$
 
 <p align="center">$\color{#C4B947}Please \space don't \space take \space inspiration \space without \space asking \space or \space copy \space our \space skins, \space especially \space alter/fictive \space skins$
 
