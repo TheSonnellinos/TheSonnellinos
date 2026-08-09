@@ -53,7 +53,7 @@
 
 <p align="center">$\color{#C4B947}People \space who \space harrass \space or \space make \space fun \space of \space others \space for \space no \space reason \space whatsoever$
 
-<p align="center">$\color{#C4B947}People \space under \space 13, \space don't \space be \space inappropriate \space with \space us \space either \space unless \space you're \space above \space 18$
+<p align="center">$\color{#C4B947}People \space under \space 13, \space don't \space be \space inappropriate \space towards \space us \space either \space unless \space you're \space above \space 18$
 
 <p align="center"><img width="700" alt="bottom banner" src="https://github.com/user-attachments/assets/8765467f-7f7d-4d58-b60d-9a0c716572ad" />
 
