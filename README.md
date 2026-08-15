@@ -12,6 +12,7 @@
   <summary>
     $\color{#C4B947}About \space us$
   </summary>
+</p>
 <p align="center">$\color{#C4B947}Zack \space collectively, \space or \space any \space of \space our \space kins/alters \space names$
 
 <p align="center">$\color{#C4B947}DID/P-DID \space + \space AUDHD$
@@ -36,6 +37,7 @@
   <summary>
     $\color{#C4B947}Some \space system \space info \space for \space those \space who \space are \space interested$
   </summary>
+</p>
 <p align="center">$\color{#C4B947}We \space experience \space identity \space issues, \space dissociation, \space and \space memory \space loss$
 
 <p align="center">$\color{#C4B947}Apologies \space in \space advance \space if \space we \space can't \space remember \space you, \space you \space probably \space met \space another \space alter$
@@ -60,6 +62,7 @@
   <summary>
     $\color{#C4B947}A \space small \space DNI \space list \space just \space to \space make \space some \space things \space clear$
   </summary>
+</p>
 <p align="center">$\color{#C4B947}Endogenic \space systems \space or \space systems \space that \space use \space pluralpedia \space terms, \space that \space site \space is \space a \space literal \space cesspool \space full \space of \space misinformation$
 
 <p align="center">$\color{#C4B947}T.R.A.S.H. (transphobic, racist, ableist, sexist, homophobic)$
