@@ -7,6 +7,11 @@
 
 <p align="center"><img width="700" alt="top banner" src="https://github.com/user-attachments/assets/94a9cdf0-6764-41e7-8830-1c678418f596" />
 
+<div align="center">
+<details>
+  <summary>
+    $\color{#C4B947}About Me$
+  </summary>
 <p align="center">$\color{#C4B947}Zack \space collectively, \space or \space any \space of \space our \space kins/alters \space names$
 
 <p align="center">$\color{#C4B947}DID/P-DID \space + \space AUDHD$
@@ -22,11 +27,15 @@
 <p align="center">$\color{#C4B947}We \space do \space enjoy \space being \space treated \space like \space the \space characters \space we \space portray \space ourselves \space as$
 
 <p align="center">$\color{#C4B947}Don't \space be \space shy \space \space to \space interact \space with \space us, \space most \space of \space us \space are \space really \space social$
+</details>
 
 <p align="center">$\color{#AE4A1C}꒷ \space \color{#B08232}꒦\color{#C4B947}꒷ \space ꒷\color{#B08232}꒦ \space \color{#AE4A1C}꒷$
 
-<p align="center">$\color{#C4B947}Some \space system \space info \space for \space those \space who \space are \space interested:$
-
+<div align="center">
+<details>
+  <summary>
+    $\color{#C4B947}Some \space system \space info \space for \space those \space who \space are \space interested$
+  </summary>
 <p align="center">$\color{#C4B947}We \space experience \space identity \space issues, \space dissociation, \space and \space memory \space loss$
 
 <p align="center">$\color{#C4B947}Apologies \space in \space advance \space if \space we \space can't \space remember \space you, \space you \space probably \space met \space another \space alter$
@@ -42,11 +51,15 @@
 <p align="center">$\color{#C4B947}Some \space alters \space will \space be \space more \space dry \space or \space more \space energetic \space than \space others$
 
 <p align="center">$\color{#C4B947}We \space don't \space really \space specify \space who's \space fronting, \space mainly \space because \space I \space can't \space tell \space half \space of \space the \space time$
+</details>
 
 <p align="center">$\color{#AE4A1C}꒷ \space \color{#B08232}꒦\color{#C4B947}꒷ \space ꒷\color{#B08232}꒦ \space \color{#AE4A1C}꒷$
 
-<p align="center">$\color{#C4B947}A \space small \space DNI \space list \space just \space to \space make \space some \space things \space clear:$
-
+<div align="center">
+<details>
+  <summary>
+    $\color{#C4B947}A \space small \space DNI \space list \space just \space to \space make \space some \space things \space clear$
+  </summary>
 <p align="center">$\color{#C4B947}Endogenic \space systems \space or \space systems \space that \space use \space pluralpedia \space terms, \space that \space site \space is \space a \space literal \space cesspool \space full \space of \space misinformation$
 
 <p align="center">$\color{#C4B947}T.R.A.S.H. (transphobic, racist, ableist, sexist, homophobic)$
@@ -54,6 +67,7 @@
 <p align="center">$\color{#C4B947}People \space who \space harrass \space or \space make \space fun \space of \space others \space for \space no \space reason \space whatsoever$
 
 <p align="center">$\color{#C4B947}People \space under \space 13, \space don't \space be \space inappropriate \space towards \space us \space either \space unless \space you're \space above \space 18$
+</details>
 
 <p align="center"><img width="700" alt="bottom banner" src="https://github.com/user-attachments/assets/8765467f-7f7d-4d58-b60d-9a0c716572ad" />
 
