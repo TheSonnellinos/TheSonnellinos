@@ -10,7 +10,7 @@
 <div align="center">
 <details>
   <summary>
-    $\color{#C4B947}About Me$
+    $\color{#C4B947}About \space us$
   </summary>
 <p align="center">$\color{#C4B947}Zack \space collectively, \space or \space any \space of \space our \space kins/alters \space names$
 
