@@ -44,7 +44,9 @@
 
 <p align="center">$\color{#C4B947}Due \space to \space thick \space dissociative \space barriers \space we \space struggle \space to \space communicate \space with \space one \space another \space through \space thoughts$
 
-<p align="center">$\color{#C4B947}So \space we \space mostly \space rely \space on \space feelings$
+<p align="center">$\color{#C4B947}So \space we \space mostly \space rely \space on \space feelings \space to \space fill \space in \space the \space gaps$
+
+<p align="center">$\color{#C4B947}We \space probably \space have \space a \space lot \space more \space alters \space than \space what \space we're \space aware \space of$
 
 <p align="center">$\color{#C4B947}High \space stress \space tolerance \space when \space it \space comes \space to \space splitting$
 
