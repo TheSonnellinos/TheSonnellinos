@@ -65,7 +65,7 @@
     $\Large\color{#C4B947}A \space small \space DNI \space list \space just \space to \space make \space some \space things \space clear$
   </summary>
 </p>
-<p align="center">$\color{#C4B947}Endogenic \space systems \space or \space systems \space that \space use \space pluralpedia \space terms. \space That \space site \space is \space a \space literal \space cesspool \space full \space of \space misinformation$
+<p align="center">$\color{#C4B947}Endogenic \space systems \space or \space systems \space that \space use \space pluralpedia. \space That \space site \space is \space a \space literal \space cesspool \space full \space of \space misinformation$
 
 <p align="center">$\color{#C4B947}Radqueers. \space Pretty \space much \space self \space explanatory$
 
